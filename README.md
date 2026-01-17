@@ -54,17 +54,29 @@ Most pages have low connectivity
 The Barabási–Albert model most closely resembles the real network
 
 📏 Path Length & Diameter
+
 Network	Avg. Path Length	Diameter
+
 Real Network	4.66	14
+
 Erdős–Rényi	3.58	5
+
 Barabási–Albert	3.23	5
+
 Watts–Strogatz	17.36	38
+
 🧩 Clustering & Density
+
 Network	Avg. Clustering	Density
+
 Real Network	0.385	0.00239
+
 Erdős–Rényi	0.0023	0.00239
+
 Barabási–Albert	0.0119	0.00236
+
 Watts–Strogatz	0.6874	0.00237
+
 🎯 Centrality Analysis
 
 The project evaluates multiple centrality measures to identify influential nodes:
@@ -144,12 +156,6 @@ Run all cells sequentially in Jupyter Notebook or Google Colab
 👤 Author
 
 Indranil
-Student ID: GH1026152
-
-GitHub Project:
-https://github.com/Indranil3001/Indranil3001/tree/Data-Driven-strategic-Decision-making
-[Data Driven Strategic Decision Making_GH1026152.docx](https://github.com/user-attachments/files/24689104/Data.Driven.Strategic.Decision.Making_GH1026152.docx)
-
 
 📚 References
 
