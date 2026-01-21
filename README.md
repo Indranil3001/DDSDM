@@ -1,5 +1,7 @@
 📊 Data-Driven Strategic Decision Making
+
 Social Network Analysis of Facebook Pages
+
 📌 Project Overview
 
 This project applies network science and data-driven analysis to study a social network of mutually liked Facebook pages. Using real-world data, the analysis explores network structure, centrality, robustness, community formation, and influence propagation to support strategic decision-making insights.
@@ -34,7 +36,9 @@ Watts–Strogatz Small-World Network
 
 This comparison helps identify which theoretical model best reflects real social media behavior.
 
+
 📈 Network Properties & Metrics
+
 🔗 Structural Characteristics
 
 The network is highly connected
@@ -42,6 +46,7 @@ The network is highly connected
 A single giant component exists across all models
 
 The entire network is traversable
+
 
 📊 Degree Distribution
 
@@ -52,6 +57,7 @@ A small number of pages have very high influence
 Most pages have low connectivity
 
 The Barabási–Albert model most closely resembles the real network
+
 
 📏 Path Length & Diameter
 
@@ -65,6 +71,7 @@ Barabási–Albert	3.23	5
 
 Watts–Strogatz	17.36	38
 
+
 🧩 Clustering & Density
 
 Network	Avg. Clustering	Density
@@ -76,6 +83,7 @@ Erdős–Rényi	0.0023	0.00239
 Barabási–Albert	0.0119	0.00236
 
 Watts–Strogatz	0.6874	0.00237
+
 
 🎯 Centrality Analysis
 
